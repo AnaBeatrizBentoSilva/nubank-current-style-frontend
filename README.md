@@ -1,10 +1,10 @@
-# Nubank Estilo Antigo - Frontend
+# Nubank Estilo Atual - Frontend
 
-Este projeto é uma aplicação mobile desenvolvida com **React Native**, **TypeScript** e **Expo**, que tem como objetivo replicar o design clássico da interface do Nubank, inspirado nas versões mais antigas do aplicativo oficial da empresa.
+Este projeto é uma aplicação mobile desenvolvida com **React Native**, **TypeScript** e **Expo**, que tem como objetivo replicar o design moderno da interface do Nubank, inspirado na versão mais atual do aplicativo oficial da empresa.
 
 ## 📱 Sobre
 
-A proposta deste projeto é relembrar o estilo visual anterior do Nubank, com foco em estudos de UI e recriação de telas usando tecnologias modernas de desenvolvimento mobile.
+A proposta deste projeto é estudar e reproduzir o estilo visual atual do Nubank. É uma forma prática de aplicar conceitos de UI/UX e aprofundar os conhecimentos em desenvolvimento mobile.
 
 ## 🚀 Tecnologias utilizadas
 
