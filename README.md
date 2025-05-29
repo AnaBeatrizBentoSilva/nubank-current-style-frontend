@@ -74,4 +74,3 @@ A proposta deste projeto é estudar e reproduzir o estilo visual atual do Nubank
 ├── package.json
 ├── tsconfig.json
 └── yarn.lock
-
