@@ -20,8 +20,36 @@ A proposta deste projeto é relembrar o estilo visual anterior do Nubank, com fo
 
 ```plaintext
 .
+├── assets/
+│   ├── svg/
+│   │   ├── cartao.tsx
+│   │   ├── cobrar.tsx
+│   │   ├── depositar.tsx
+│   │   ├── email.tsx
+│   │   ├── icon-user.tsx
+│   │   ├── ocult.tsx
+│   │   ├── pagar.tsx
+│   │   ├── pix.tsx
+│   │   ├── question.tsx
+│   │   ├── recarga.tsx
+│   │   ├── tranfInternacional.tsx
+│   │   └── transferencia.tsx
+│   ├── adaptive-icon.png
+│   ├── favicon.png
+│   ├── icon.png
+│   ├── img.png
+│   ├── logo.png
+│   ├── preview.png
+│   ├── splash-icon.png
+│   └── splash.png
+├── src/
+├── .gitignore
+├── App.tsx
 ├── README.md
-├── index.html
-├── script.js
-└── style.css
+├── app.json
+├── index.ts
+├── package-lock.json
+├── package.json
+├── tsconfig.json
+└── yarn.lock
 
