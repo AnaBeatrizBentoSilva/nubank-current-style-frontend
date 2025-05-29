@@ -43,6 +43,28 @@ A proposta deste projeto é relembrar o estilo visual anterior do Nubank, com fo
 │   ├── splash-icon.png
 │   └── splash.png
 ├── src/
+│   ├── components
+│   │   ├── button-menu/
+│   │   │   ├── index.tsx
+│   │   │   └── style.ts
+│   │   ├── button/
+│   │   │   ├── index.tsx
+│   │   │   └── styles.ts
+│   │   ├── customSplash/
+│   │   │   ├── index.tsx
+│   │   │   └── styles.ts
+│   │   ├── info/
+│   │   │   ├── index.tsx
+│   │   │   └── style.ts
+│   │   └── portabilidade/
+│   │       ├── index.tsx
+│   │       └── styles.ts
+│   ├── screens/
+│   │   └── main/
+│   │       ├── index.tsx
+│   │       └── styles.ts
+│   └── theme/
+│       └── tokens.ts
 ├── .gitignore
 ├── App.tsx
 ├── README.md
